@@ -1,0 +1,22 @@
+job_preferences:
+  job_titles: "Data Analyst","Data Scientist","Business Analyst", "Research Analyst","Data Engineer","Analyst", "Data Governance Analyst"
+
+  locations: "Gurugram","Noida","Hyderabad","Chandigarh","Bangalore","India","usa","uk","Pune","Mumbai"
+
+  jobTypes:
+  full-time: true
+  contract: false
+  remote: true
+  part-time: false
+  temporary: true
+  internship: false
+  other: false
+  volunteer: true
+
+  experience_level: "entry", "internship", "associate"
+
+  distance: 1000           # Distance in miles for job search radius
+
+  date_posted: "week"
+
+company_blacklist: "Amazon", "Google"
